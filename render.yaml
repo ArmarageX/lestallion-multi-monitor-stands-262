@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: lestallion-multi-monitor-stands-262
+    runtime: static
+    staticPublishPath: public
